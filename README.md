@@ -1,6 +1,6 @@
 # Stratify
 
-<p align = "center "> <img src ="/Startify/web/img/stratify-logo.png" alt = "logo" width="200">
+<p align = "center "> <img src ="stratify-logo.png" alt = "logo" width="200">
 </p>
 Grupo de proyecto formativo
 
