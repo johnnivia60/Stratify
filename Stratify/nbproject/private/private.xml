@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/web/admin/admin.jsp</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/RegistroServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Modelo/Producto.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Controlador/Conexion.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/RestablecerClaveServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/web/index.jsp</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/ProveedorServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Controlador/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/EditarPerfilServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/AdminServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/HistorialServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/web/usuario/usuario.jsp</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Controlador/ProveedorDAO.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Controlador/UnidadMedidaDAO.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/SolicitudServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/InventarioServlet.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/web/js/app.js</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/web/js/admin.js</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/web/css/style.css</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Controlador/ProductoDAO.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/util/EmailUtil.java</file>
+            <file>file:/C:/Users/Aprendiz/Documents/NetBeansProjects/Stratify/src/java/Servlet/ProductoServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
